@@ -45,7 +45,7 @@ A software project to dynamically allocate computing resources (e.g., memory, CP
 
 ```bash
 # Clone the repository
-git clone : https://github.com/lakshyakumar90/Resguard--Resource-Management-System.git
+git clone : https://github.com/Raunak142/Resguard--Resource-Management-System.git
 cd resguard
 
 # Install dependencies
@@ -159,10 +159,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contributors
 
-- Lakshya Kumar
-- Chitrance Dogra
-- Aman Rana
-- Anshuman Riar
+- Raunak Godiyal
+- Arun Singh
+- Ayush Negi
+
 
 ## Acknowledgments
 
